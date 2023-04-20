@@ -2,6 +2,8 @@
 
 A vanilla+ data pack containing structures which give the game a little bit more character.
 
+> Have any suggestions for new features? Please [create an issue](https://github.com/AdamRaichu/structures-data-pack/issues) and I'll see what I can do.
+
 ## Features
 
 All structures will (eventually; this is a WIP) have a book with associated lore explaining what they are and why they are there. Copies of the lore can be found in dropdowns below.
