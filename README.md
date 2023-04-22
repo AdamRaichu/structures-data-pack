@@ -14,10 +14,6 @@ All structures will (eventually; this is a WIP) have a book with associated lore
 
 <details>
   <summary>Lore</summary>
-  
-```nbt
-{pages:['{"text":"Villagers die in much the same way that people do. When a citizen dies and they are able to collect the body, they bring it to one of the graveyards scattered across the world. Unfortunately, the sanctity of the dead is not something evil respects...."}','["",{"text":"Mausoleums","bold":true,"underlined":true},{"text":"\\n\\nSome particularly wealthy villagers paid to have mausoleums built for their remains. Sometimes, even a wandering trader has been given a plot for one, although their architectural tastes are... unusual.","color":"reset"}]','["",{"text":"Technical Information","bold":true,"underlined":true},{"text":"\\n\\nHover over items for details. ","color":"reset"},{"text":"This is technical information regarding drop and generation rates, which some may consider to be spoilers","italic":true},{"text":".\\n\\n","color":"reset"},{"text":"Double Graves","hoverEvent":{"action":"show_text","contents":"Every set of two graves have a 1 in 12 chance of being replaced with a double grave. Double graves will spawn two zombie villagers."}}]'],title:"Villager Graveyards Lore",author:"AdamRaichu"}
-```
 
 Villagers die in much the same way that people do. When a citizen dies and they are able to collect the body, they bring it to one of the graveyards scattered across the world. Unfortunately, the sanctity of the dead is not something evil respects....
 
