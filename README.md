@@ -38,7 +38,6 @@ Every set of two graves have a 1 in 12 chance of being replaced with a double gr
 
 ## Planned/Upcoming Features
 
-- Procedural generation.
 - Graveyards for other village biomes (desert, taiga, snowy, etc.).
 - A new illager structure. I do not have specific plans for this, so please tell me your ideas!
 
